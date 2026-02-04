@@ -6,6 +6,7 @@
       {
         "id": "82b78d93f20e15ea",
         "type": "tabs",
+        "dimension": 73.08394160583941,
         "children": [
           {
             "id": "df8be4d3144b2444",
@@ -26,6 +27,7 @@
       {
         "id": "29df1906bbe6a6e8",
         "type": "tabs",
+        "dimension": 26.916058394160586,
         "children": [
           {
             "id": "fd175447b2cb82ef",
@@ -94,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 339.5
   },
   "right": {
     "id": "41cead29af5bf528",
@@ -201,9 +203,9 @@
   },
   "active": "df8be4d3144b2444",
   "lastOpenFiles": [
-    "Welcome.md",
-    "().md",
+    "README.md",
     "规划.md",
+    "().md",
     "Untitled",
     "草稿",
     "发布"
